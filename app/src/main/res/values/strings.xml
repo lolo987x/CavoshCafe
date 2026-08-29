@@ -8,4 +8,15 @@
     <string name="perfil">Perfil</string>
     <string name="carrito">Carrito</string>
     <string name="comenzar">Comenzar</string>
+    <string name="correo">Correo</string>
+    <string name="texto_header_login">Vamos a iniciar sesión</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="registrar">Registrar</string>
+    <string name="password">password</string>
+    <string name="password_recovery">Recuperar contraseña</string>
+    <string name="texto_login">Inicia sesion usando</string>
+    <string name="no_tienes_cuenta">No tienes cuenta?</string>
+    <string name="vamos_a_registrarte">Vamos a registrarte</string>
+    <string name="nombres">Nombres</string>
+    <string name="confirmar_contraseña">Confirmar contraseña</string>
 </resources>
