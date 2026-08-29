@@ -19,4 +19,13 @@
     <string name="vamos_a_registrarte">Vamos a registrarte</string>
     <string name="nombres">Nombres</string>
     <string name="confirmar_contraseña">Confirmar contraseña</string>
+    <string name="o_registrarse_con">o registrarse con</string>
+    <string name="tienes_una_cuenta">tienes una cuenta?</string>
+    <string name="cambiar">cambiar</string>
+    <string name="content_description">content_description</string>
+    <string name="cavosh">Cavosh</string>
+    <string name="cafe">Cafe :</string>
+    <string name="buenos_d_as">Buenos días,...</string>
+    <string name="lo_nuevo">Lo nuevo...</string>
+    <string name="frecuentes_ordenados">Frecuentes ordenados</string>
 </resources>
