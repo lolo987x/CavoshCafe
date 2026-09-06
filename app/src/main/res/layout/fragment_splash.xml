@@ -9,16 +9,20 @@
     tools:context=".ui.Splash">
 
     <ImageView
-        android:layout_width="108dp"
-        android:layout_height="108dp"
+        android:id="@+id/ivLogoCafes"
+        android:layout_marginTop="-30dp"
+        android:layout_width="190dp"
+        android:layout_height="195dp"
         android:contentDescription="@string/content_description"
         android:elevation="5dp"
         android:src="@drawable/logo_cafes"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
+        android:id="@+id/ivLogoPrincipal"
         android:layout_width="384dp"
+        android:layout_marginTop="-100dp"
         android:layout_height="384dp"
         android:contentDescription="@string/content_description"
         android:elevation="5dp"
@@ -27,6 +31,38 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/cavosh"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginBottom="100dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="Bienvenido a "
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/btnComenzar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/cavosh"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginBottom="30dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="Cavosh"
+        android:textSize="50sp"
+        android:textColor="@color/carmine_pink"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/btnComenzar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
 
     <Button
         android:id="@+id/btnComenzar"
