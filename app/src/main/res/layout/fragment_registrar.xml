@@ -194,7 +194,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text=""
+        android:text="@string/o_registrarse_con"
         android:textColor="@color/gunmetal"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/btnRegistrar"
@@ -222,7 +222,6 @@
         android:layout_height="84dp"
         android:layout_marginTop="72dp"
         android:background="@drawable/sh_btn_flesh"
-        android:contentDescription="@string/texto_google"
         android:clickable="true"
         android:focusable="true"
         android:padding="20dp"
@@ -238,7 +237,6 @@
         android:layout_marginTop="72dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/sh_btn_flesh"
-        android:contentDescription="@string/texto_apple"
         android:clickable="true"
         android:focusable="true"
         android:padding="20dp"
@@ -258,7 +256,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/tienes_una_cuenta"
+            android:text="@string/tienesunacuenta"
             android:textColor="@color/gunmetal" />
 
         <TextView

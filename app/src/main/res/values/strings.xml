@@ -28,4 +28,15 @@
     <string name="buenos_d_as">Buenos días...</string>
     <string name="lo_nuevo">Lo nuevo...</string>
     <string name="frecuentes_ordenados">Frecuentes ordenados</string>
+    <string name="tienesunacuenta">Tienes una cuenta?</string>
+    <string name="tu_cafe">tu cafe</string>
+    <string name="mas">+</string>
+    <string name="_7_00">$ 7.00</string>
+    <string name="caffe_mocha">Caffe Mocha</string>
+    <string name="_6_70">$ 6.70</string>
+    <string name="caramel_macchiato">Caramel Macchiato</string>
+    <string name="_4_00">$ 4.00</string>
+    <string name="americano">Americano</string>
+    <string name="_3_00">$ 3.00</string>
+    <string name="vanilla_nlatte">Vanilla\nLatte</string>
 </resources>
