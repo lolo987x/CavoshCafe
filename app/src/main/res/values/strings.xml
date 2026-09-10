@@ -39,4 +39,24 @@
     <string name="americano">Americano</string>
     <string name="_3_00">$ 3.00</string>
     <string name="vanilla_nlatte">Vanilla\nLatte</string>
+    <string name="otros">Otros</string>
+    <string name="moneda">Moneda</string>
+    <string name="ubicaci_n">Ubicación</string>
+    <string name="compartir_datos_de_ubicaci_n">Compartir datos de ubicación</string>
+    <string name="recibir_notificaciones">Recibir notificaciones</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="descuento_de_estudiante">Descuento de estudiante</string>
+    <string name="recompensas">Recompensas</string>
+    <string name="historial_de_pedidos">Historial de pedidos</string>
+    <string name="detalles_de_pago">Detalles de pago</string>
+    <string name="detalles_de_la_cuenta">Detalles de la cuenta</string>
+    <string name="cuenta">Cuenta</string>
+    <string name="_124_puntos">124 puntos</string>
+    <string name="laura_vat">Laura Vat</string>
+    <string name="capuchino_tradicional">Capuchino Tradicional</string>
+    <string name="latte_de_vainilla">Latte de Vainilla</string>
+    <string name="aperitivos">Aperitivos</string>
+    <string name="bebidas_fr_as">Bebidas frías</string>
+    <string name="bebidas_calientes">Bebidas calientes</string>
+    <string name="categor_as">Categorías</string>
 </resources>
